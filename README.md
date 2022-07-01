@@ -11,11 +11,11 @@
 console.log('Welcome to my page! 🎉')
 ```
 
-# 🤔 About me:
+# 🤔 About Me:
 
 - 🚀 A Front-End Developer.
 - 🏷️ A Minimalist.
-- ✉️ Reach me: pipipi_pikachu@163.com
+- ✉️ Reach Me: pipipi_pikachu@163.com
 
 # 🏆 Github Stats:
 
